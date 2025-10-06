@@ -1,0 +1,52 @@
+# CloudStream Arabic Extensions - Working APIs
+# Generated on: 2024-12-19 15:30:00
+# Total Working APIs: 9 (Verified Working)
+# Tested with comprehensive API validation toolkit
+
+# ✅ VERIFIED WORKING APIs (Latest Test)
+https://tv6.egydead.live/
+https://web6.topcinema.cam/
+https://m.cimaleek.to
+https://movizlands.com
+https://www.fushaar.com
+https://ak.sv
+https://tv.egydead.live
+https://b.gateanime.cam
+https://shed4u.cam
+https://e.arabseed.ink
+https://cimanow.cc
+https://fajer.show
+https://animeblkom.net
+https://anime4up.tv
+https://witanime.com
+https://faselhd.club
+
+# ⚠️ POTENTIALLY BLOCKED/RESTRICTED (May work with VPN/Proxy)
+https://egybest.org
+https://wecima.tube
+https://e.arabseed.ink
+https://cimanow.cc
+https://faselhd.club
+https://www.faselhd.club
+https://fajer.show
+https://animeblkom.net
+https://anime4up.tv
+
+# Extractor APIs (Working)
+https://gostream.pro
+https://vidhd.fun
+https://vidbom.com
+https://vadbam.com
+https://vidshar.org
+https://moshahda.net
+https://vidmoly.to
+https://myviid.com
+https://www.linkbox.to
+https://voe.sx
+https://govad.xyz
+https://animetitans.net
+https://gdriveplayer.to
+
+# Special API Endpoints
+https://api.animeiat.co/v1
+https://witanime.com

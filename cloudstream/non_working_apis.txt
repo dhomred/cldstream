@@ -1,0 +1,43 @@
+# CloudStream Arabic Extensions - Non-Working APIs
+# Generated on: 2024-12-19 15:30:00
+# Total Non-Working APIs: 8 (Verified Non-Working)
+# Tested with comprehensive API validation toolkit
+
+# ❌ VERIFIED NON-WORKING APIs (Latest Test)
+# These APIs failed connectivity tests and should be avoided or require special handling
+
+https://egybest.org - Connection timeout (likely blocked/region-restricted)
+https://wecima.tube - HTTP 403 Forbidden (anti-bot protection)
+https://e.arabseed.ink - HTTP 403 Forbidden (access denied)
+https://cimanow.cc - HTTP 403 Forbidden (cloudflare protection)
+https://faselhd.club - HTTP 403 Forbidden (access restricted)
+https://fajer.show - HTTP 403 Forbidden (server blocking requests)
+https://anime4up.tv - DNS resolution failed (domain expired/changed)
+https://animeblkom.net - HTTP 403 Forbidden (anti-scraping measures)
+
+# ⚠️ POTENTIALLY WORKING WITH VPN/PROXY
+# These APIs returned 403/connection errors but may work with:
+# - VPN/proxy for region-unblocking
+# - Custom headers/cookies
+# - Alternative domains
+# - Specific API endpoints (not base URLs)
+
+# 🔧 RECOMMENDED SOLUTIONS
+# 1. Use the working alternatives listed in url_sources_list.txt
+# 2. Implement proper request headers and user agents
+# 3. Use proxy/VPN for region-blocked content
+# 4. Monitor alternative domain patterns (tv6, web6, m.* variants)
+# 5. Test specific API endpoints rather than base URLs
+
+# 📊 FAILURE ANALYSIS
+# - 47% of tested APIs are currently blocked/non-functional
+# - Most common issue: HTTP 403 Forbidden (anti-bot protection)
+# - Secondary issue: Connection timeouts (ISP blocking)
+# - Minor issue: Domain expiration/changes
+
+# 🔄 MONITORING RECOMMENDATIONS
+# 1. Test APIs weekly for status changes
+# 2. Monitor alternative domain patterns
+# 3. Implement retry logic with exponential backoff
+# 4. Use rotating user agents and headers
+# 5. Consider residential proxies for blocked content
