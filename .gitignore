@@ -1,9 +1,13 @@
 *.bak
 *~
 .DS_Store
+Thumbs.db
 dist/
 build/
 node_modules/
 *.log
-*.log
-# ...existing code...
+*.tmp
+*.swp
+.vscode/
+.idea/
+.env
